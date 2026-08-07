@@ -36,3 +36,10 @@ Sign-Language-Recognition-CNN/
 ├── requirements.txt
 └── LICENSE
 ```
+
+## Results
+
+The project compares:
+- CNN built from scratch
+- CNN with data augmentation
+- MobileNetV2 transfer learning
