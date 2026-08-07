@@ -21,17 +21,18 @@ A deep learning project for recognizing American Sign Language (ASL) alphabet ge
 
 ## Project Structure
 
--Sign-Language-Recognition-CNN/
--│
--├── notebooks/
--│     CNN_From_Scratch.ipynb
--│     CNN_Data_Augmentation.ipynb
--│     MobileNetV2_TransferLearning.ipynb
--│
--├── models/
--│     sign_language_cnn.keras
--│
--├── README.md
--|── LICENSE
+```text
+Sign-Language-Recognition-CNN/
+│
+├── notebooks/
+│   ├── CNN_From_Scratch.ipynb
+│   ├── CNN_Data_Augmentation.ipynb
+│   └── MobileNetV2_TransferLearning.ipynb
+│
+├── models/
+│   └── sign_language_cnn.keras
+│
+├── README.md
 ├── requirements.txt
 └── LICENSE
+```
