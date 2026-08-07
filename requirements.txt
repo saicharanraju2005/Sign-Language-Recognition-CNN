@@ -1,0 +1,11 @@
+
+## Dataset
+
+Sign Language MNIST (24 ASL alphabet classes).
+
+## Future Work
+
+- Train on larger real-world datasets
+- Fine-tune pretrained models
+- Deploy as a web application
+- Real-time webcam inference
